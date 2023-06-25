@@ -1,0 +1,11 @@
+Movie,Year,Review
+"Inception",2010,"Inception is a mind-bending thriller that keeps you guessing until the very end. Christopher Nolan's direction and the talented ensemble cast deliver a gripping cinematic experience that will leave you in awe."
+"The Twilight Saga: Breaking Dawn - Part 1",2011,"Breaking Dawn - Part 1 lacks substance and fails to engage viewers who aren't already fans of the Twilight series. The plot feels dragged out, and the performances and dialogue fall flat."
+"Gravity",2013,"Gravity is a visually stunning and gripping space thriller that immerses you in its intense atmosphere. Alfonso Cuarón's direction and Sandra Bullock's powerful performance make it a must-see film."
+"The Hangover Part II",2011,"The Hangover Part II feels like a lazy and uninspired sequel that relies too heavily on recycled jokes. It fails to capture the freshness and comedic brilliance of the original film."
+"Mad Max: Fury Road",2015,"Mad Max: Fury Road is an adrenaline-fueled masterpiece that redefines the action genre. George Miller's direction, the stunning practical effects, and Charlize Theron's fierce portrayal make it an unforgettable cinematic experience."
+"Suicide Squad",2016,"Suicide Squad is a disappointing and messy attempt at a superhero ensemble film. Despite a talented cast, the weak plot, inconsistent tone, and underdeveloped characters hinder its potential."
+"The Shape of Water",2017,"The Shape of Water is a visually stunning and unconventional love story that celebrates the beauty of differences. Guillermo del Toro's direction and the exceptional performances make it a captivating film."
+"The Emoji Movie",2017,"The Emoji Movie is a shallow and uninspired animated film that feels like a blatant marketing ploy. The weak storyline and lack of originality make it an overall forgettable experience."
+"Parasite",2019,"Parasite is a masterful and thought-provoking film that explores social class with dark humor and clever storytelling. Bong Joon-ho's direction and the exceptional ensemble cast deliver a truly unforgettable cinematic achievement."
+"Frozen",2013,"Frozen is a delightful and enchanting animated film that captivates audiences of all ages. The memorable songs, heartfelt story, and lovable characters make it a modern Disney classic."
