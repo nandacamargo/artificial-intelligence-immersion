@@ -1,0 +1,24 @@
+==================
+My Detailed Prompt
+==================
+
+This part is correct:  R$6,200.00 + R$1,500.00 + R$15,600.00 + R$30,900.00 + R$12,600.00 + R$46,800.00 + R$1,500.00 + R$5,400.00 + R$24,600.00 + R$6,600.00 + R$5,000.00 + R$1,700.00 + R$15,900.00 + R$7,000.00 + R$36,000.00 + R$22,200.00 + R$5,600.00 + R$19,200.00 + R$5,800.00 + R$1,400.00
+However, the sum is not. Could you correct this, please?
+
+Step by step:
+R$6.200,00 + R$1.500,00 = R$7.700,00
+R$6.200,00 + R$1.500,00 + R$15.600,00 = R$23.300,00
+
+So, sum this please:
+R$6,200.00 + R$1,500.00 + R$15,600.00 + R$30,900.00 + R$12,600.00 + R$46,800.00 + R$1,500.00 + R$5,400.00 + R$24,600.00 + R$6,600.00 + R$5,000.00 + R$1,700.00 + R$15,900.00 + R$7,000.00 + R$36,000.00 + R$22,200.00 + R$5,600.00 + R$19,200.00 + R$5,800.00 + R$1,400.00
+
+
+===========================================================
+Notes about ChatGPT Answer
+===========================================================
+After the above prompt, the ChatGPT apologized about the wrong answer
+and started to calculate the sum step by step, as suggested. 
+Then the sum of all the taxes were R$271,500.00, which is correct.
+So, this experiment show that elaborating well the question,
+using the Chain-of-Thought method and asking the chat to do step
+by step, improve a lot the results. 
