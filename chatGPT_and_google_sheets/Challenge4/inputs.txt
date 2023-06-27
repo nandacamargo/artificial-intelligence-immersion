@@ -1,0 +1,11 @@
+----------
+Input 1:
+----------
+Generate a short text recommending mystery movies.
+9 tokens, 50 characters
+
+----------
+Input 2:
+----------
+Could it be shorter?
+5 tokens, 20 characters

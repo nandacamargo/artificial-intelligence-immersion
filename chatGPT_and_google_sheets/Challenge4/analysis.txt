@@ -1,0 +1,13 @@
+A token is around 4 characters of text.
+
+If we pick 'inputs.txt' and ask to tokenize, we would get 9 tokens for input 1 and 5 tokens for input 2.
+
+When picking 'outputs.txt' and asking to tokenize, we get 415 tokens for output 1 and 141 for output 2.
+
+If we need to use an API, the cost considers the number of tokens.
+It is important to know that when doing this via API, we are paying for the current input + the history before. So for input 2, we are paying again for input 1 + output 1. That is why it is important to formulate well the inputs.
+
+Prices are per 1000 tokens and if we use 8k context model, the prices are:
+
+Input               Output
+$0.03 / 1K tokens	$0.06 / 1K tokens
